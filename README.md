@@ -7,6 +7,8 @@ A voice recognizer developed to recognize human voice, and transfer it into text
 
 Voice generator is based on Siri's tipical female voice to generate voice from texts. Unfortunately, in this demo, it is not possible to show this feature
 
+The script is used to memorize the black month
+
 Both will be deployed in next version of John*
 
 
