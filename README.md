@@ -11,6 +11,8 @@ The script is used to memorize the black month
 
 Both will be deployed in next version of John*
 
+In future, both features could be applied into multiple applications, such as live-translation, chatbot, or accessbilities
+
 
 ## Technique
 Observation
