@@ -21,9 +21,7 @@ class ViewController: UIViewController, SFSpeechRecognizerDelegate {
     
     override func viewDidLoad() {
         super.viewDidLoad()
-//        speekOutLoud()
-        
-//        recordAndRecognizeSpeech()
+//        speekOutLoud()        
     }
     
     @IBAction func startButtonTapped(_ sender: UIButton) {
